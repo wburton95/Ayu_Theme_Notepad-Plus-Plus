@@ -5,11 +5,11 @@ This project was created to port over the popular Ayu themes from other editor l
 ## Screenshots
 
 # Ayu Dark
-![Ayu Dark](screens/dark.png)
+![Ayu Dark](https://github.com/wburton95/Ayu_Theme_Notepad-Plus-Plus/blob/main/screens/dark.PNG)
 # Ayu Mirage
-![Ayu Mirage](screens/mirage.png)
+![Ayu Mirage](https://github.com/wburton95/Ayu_Theme_Notepad-Plus-Plus/blob/main/screens/mirage.PNG)
 # Ayu Light
-![Ayu Light](screens/light.png)
+![Ayu Light](https://github.com/wburton95/Ayu_Theme_Notepad-Plus-Plus/blob/main/screens/mirage.PNG)
 
 ## Contribution
 
