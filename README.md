@@ -11,6 +11,6 @@ This project was created to port over the popular Ayu themes from other editor l
 ### Ayu Light
 ![Ayu Light](https://github.com/wburton95/Ayu_Theme_Notepad-Plus-Plus/blob/main/screens/light.PNG)
 
-### Contribution
+### Notes on Contribution
 
-Basic support for lexers are working however not perfect. Many languages still require much tweaking. Please consider forking this project and improving language support by adding syntax highlighting for other lexers. Notepad++ is somewhat difficult to customize when it comes to themes but the editor is fully capiable of visual beauty and reduced eye strain with enough effort.
+Basic support for lexers are working however they are not perfect. Languages that are supported still require some tweaking. Please consider forking this project and improving language support by adding syntax highlighting for other lexers.
