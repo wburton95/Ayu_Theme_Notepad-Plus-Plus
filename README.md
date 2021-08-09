@@ -1,6 +1,6 @@
 # Ayu Notepad Plus Plus Theme
 
-This project was created to port over the popular Ayu themes from other editor like Vim and VSCode to notpad++.
+This project was created to port over the popular Ayu themes from other editor like Vim and VSCode to notepad++.
 
 ## Screenshots
 
